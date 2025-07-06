@@ -1,0 +1,26 @@
+[
+  {
+    "id": 6,
+    "isim": "Murat Şahin",
+    "yas": 22,
+    "email": "murat.sahin@example.com"
+  },
+  {
+    "id": 7,
+    "isim": "Fatma Karaca",
+    "yas": 33,
+    "email": "fatma.karaca@example.com"
+  },
+  {
+    "id": 8,
+    "isim": "Ali Can",
+    "yas": 29,
+    "email": "ali.can@example.com"
+  },
+  {
+    "id": 9,
+    "isim": "Hüseyin Öztürk",
+    "yas": 40,
+    "email": "huseyin.ozturk@example.com"
+  }
+]
