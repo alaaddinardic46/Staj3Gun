@@ -1,8 +1,8 @@
 import { createClient } from '@supabase/supabase-js';
 import fs from 'fs';
 
-const supabaseUrl = 'https://nvniedwdxijfjgpjwqxg.supabase.co'
-const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im52bmllZHdkeGlqZmpncGp3cXhnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE1NDUxMzUsImV4cCI6MjA2NzEyMTEzNX0.7oU7UflADHrcaduW0m6ssBtRWRHW5alaT9wemeR7UO8'
+const supabaseUrl = 'url'
+const supabaseKey = 'key'
 const supabase = createClient(supabaseUrl, supabaseKey)
 
 async function fetchData() {
